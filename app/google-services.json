@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "936688908920",
+    "firebase_url": "https://g620-apps.firebaseio.com",
+    "project_id": "g620-apps",
+    "storage_bucket": "g620-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936688908920:android:b813245984df18b0",
+        "android_client_info": {
+          "package_name": "com.Vetos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936688908920-gvi621runpvgmm5k341onav2ujkheigg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFS2f3l398_ODPq8gFOXK0b-jvP9y0OxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
